@@ -1,6 +1,6 @@
 ### Hello
 
-My name is John Marion (he/him), and I am currently a student at Columbia University pursuing a Master's degree in Quantitative Methods in the Social Sciences. Previously, I graduated from Ohio State University with a Bachelor's of Science in Economics and AmeriCorps NCCC Class 25B and 26B. 
+My name is John Marion (he/him), and I am currently a student at Columbia University pursuing a Master's degree in Quantitative Methods in the Social Sciences. Previously, I graduated from Ohio State University with a Bachelor's of Science in Economics. AmeriCorps NCCC Class 25B and 26B. 
 
 #### My interests
 I am passionate about using data and quantitative analysis for social good. Some of my specific interests include
