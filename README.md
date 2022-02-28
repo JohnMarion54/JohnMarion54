@@ -15,7 +15,7 @@ I am passionate about using data and quantitative analysis for social good. Some
 
 #### Contact Me 📫
 * email: ajohnmarion54@gmail.com
-* LinkedIn: A John Marion
+* LinkedIn: [A John Marion](https://www.linkedin.com/in/a-john-marion-387208220/)
 
 #### More Interesting
 * Hiked to the highest point in the continental US (Mt. Elbert in Colorado) & found and named a cave (Mammoth Cave National Park, KY)
