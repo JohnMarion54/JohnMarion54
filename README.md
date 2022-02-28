@@ -17,7 +17,7 @@ I am passionate about using data and quantitative analysis for social good. Some
 * email: ajohnmarion54@gmail.com
 * LinkedIn: A John Marion
 
-#### More Interesting Facts
+#### More Interesting
 * Hiked to the highest point in the continental US (Mt. Elbert in Colorado) & found and named a cave (Mammoth Cave National Park, KY)
 * Once played a concert with Joe Vitale on drums :guitar:
 * Vegan :broccoli:
