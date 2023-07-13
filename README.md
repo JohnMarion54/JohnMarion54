@@ -1,12 +1,14 @@
 ### Hello
 
-My name is John Marion (he/him), and I am currently a student at Columbia University pursuing a Master's degree in Quantitative Methods in the Social Sciences. Previously, I graduated from Ohio State University with a Bachelor's of Science in Economics. AmeriCorps NCCC Class 25B and 26B. 
+My name is John Marion (he/him), and I am currently the Data Analyst at Mental Health America's National branch. Previously, I graduated from Columbia University with an MA in Quantitative Methods in the Social Sciences and Ohio State University with a Bachelor's of Science in Economics. AmeriCorps NCCC Class 25B and 26B. 
 
 #### My interests
-I am passionate about using data and quantitative analysis for social good. Some of my specific interests include
+With great data comes great responsibility. 
+I'm passionate about using data for a wide range of topics and how it can be used for good, not evil. However, some specific interests include:
 * Mental health rates and ways we can improve the conditions, especially among youth
-* Ways to model and anlyze human rights and the conditions that lead to abuses thereof
-* Economic policy at levels ranging from local to international and its impact 
+* Geo-spatial analysis of mental health clustering
+* Analyzing environmental degredation and its causes, especially in the lense of climate justice
+* Economic and monetary policy, especially as it relates to other realms
 
 #### Coursework and Programs 🌱
 * Coursework: Econometrics, GIS, Machine Learning, Data Visualization, Network Analysis
@@ -18,7 +20,7 @@ I am passionate about using data and quantitative analysis for social good. Some
 * LinkedIn: [A John Marion](https://www.linkedin.com/in/a-john-marion-387208220/)
 
 #### More Interesting
-* Hiked to the highest point in the continental US (Mt. Elbert in Colorado) & found and named a cave (Mammoth Cave National Park, KY)
+* Hiked to the highest point in the continental US (Mt. Elbert in Colorado) & found and named a cave (Willow 5 Cave in Mammoth Cave National Park, KY)
 * Once played a concert with Joe Vitale on drums :guitar:
 * Vegan :broccoli:
 
